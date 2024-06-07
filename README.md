@@ -1,2 +1,5 @@
-# Project_01
- new project to portfolio
+# Project 01 - Python
+---
+ _New project to portfolio_
+ 
+## 
